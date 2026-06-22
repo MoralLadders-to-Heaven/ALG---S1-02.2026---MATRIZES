@@ -66,9 +66,7 @@ Ao final, são exibidos:
 - Linguagem C
 - Estruturas de repetição
 - Matrizes bidimensionais
-- Entrada e saída de dados no terminal
-- Git
-- GitHub
+- Entrada e saída de dados no terminalx
 
 ---
 
